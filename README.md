@@ -1,16 +1,15 @@
-## Hi there 👋
+# –Introducing Myself–
 
-<!--
-**shib7997/shib7997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Shibani and I am an engineer and data analyst with a lot of experience in coding, analytics, and machinery!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 
+- Compliance Risk Monitoring System
+- Retail Sales
+- Financial Stocks Model (Re-Configuring)
+- AWS Modeling (Re-Configuring)
+
+## Skillset
+- Languages: Python, SQL, C++, Javascript
+- Developed: Feautre Engineering, Machine Learning, Data Visualization
+- Sectors: Mechanical, Finance, Aerospace, Computer Science
