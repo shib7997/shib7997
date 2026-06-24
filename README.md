@@ -13,3 +13,5 @@ Hello! My name is Shibani and I am an engineer and data analyst with a lot of ex
 - Languages: Python, SQL, C++, Javascript
 - Developed: Feautre Engineering, Machine Learning, Data Visualization
 - Sectors: Mechanical, Finance, Aerospace, Computer Science
+
+Currently Re-Building Profile**
